@@ -1,0 +1,9 @@
+# Logs
+bot.log
+bot.error.log
+
+# macOS
+.DS_Store
+
+# Optional: local config overrides
+# config.local.py
